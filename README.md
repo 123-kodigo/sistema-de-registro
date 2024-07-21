@@ -5,3 +5,6 @@
 -para ejecutar el sistema debes poner:
 
 '''npm'''
+
+prueba de cambios de git hub a git local
+
